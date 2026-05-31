@@ -32,9 +32,9 @@ RECONE-RAJ is a Python-based framework that provides a centralized interface for
 ### Clone Repository
 
 ```bash
-git clone https://github.com/USERNAME/RECONE-RAJ.git
+git clone https://github.com/RAJARYAN77-art/recon-raj.git
 
-cd RECONE-RAJ
+cd recon-raj
 ```
 
 Replace `USERNAME` with your GitHub username.
